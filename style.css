@@ -1,0 +1,76 @@
+header{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.logo img{
+    height: 50px;
+}
+.menu{
+    height: 50px;
+    background-color: black;
+}
+.menu lu{
+    list-style-type: none;
+    line-height: 50px;
+    
+}
+.menu lu li{
+    float: left;
+    padding-right:40px;
+    padding-left: 40px;
+    color: white;
+}
+.left{
+    float: left;
+    width: 70%;
+    margin-right: 50px;
+    margin-bottom: 60px;
+}
+.left h1{
+    border-left:5px solid black;
+    border-bottom: 2px solid lightgray;
+    
+}
+
+.left .bookstore{
+    width: 100%;
+}
+.left .box1{
+    width: 100%;
+    background-color: lightgray;
+    text-align: center;
+}
+.left .box1 img{
+    width: 100%;
+    margin:20px 10px -10px 10px
+}
+.left .box_pic1{
+    width:23%;
+    display:inline-block
+}
+
+
+.right{
+    float:left;
+    width:25%
+}
+.right ul{
+    list-style-type: none;
+}
+.right ul li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.right h2{
+    border-bottom: 2px dotted lightgray;
+    text-align: left;
+}
+footer{
+    clear:left;
+    height:50px;
+    background-color: black;
+    color: white;
+    text-align:center;
+    line-height: 50px;
+}
+
